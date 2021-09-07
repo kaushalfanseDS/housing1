@@ -3,7 +3,6 @@ import numpy as np
 from sklearn import linear_model
 import pickle
 
-'/Users/mithunkumar/Desktop/HomePrices/newhousing.csv')
 df = pd.read_csv('/Users/mithunkumar/Desktop/HomePrices/newhousing.csv')
     
     
